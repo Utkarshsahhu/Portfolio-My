@@ -23,7 +23,7 @@ const Home = () => {
             <div className='flex px-4 md:py-32 mx-auto h-screen items-center'>
                 <div className='text-center mx-auto'>
                     <h1 className='text-4xl text-black font-extrabold md:text-6xl'>
-                        Vijay Brat Pandey
+                        Utkarsh Sahu
                     </h1>
                     <h1 className='text-4xl text-blue-500 font-extrabold md:text-6xl'>
                         Front-End Developer
@@ -39,7 +39,7 @@ const Home = () => {
                                 Contact Me
                             </a>
                         </Link>
-                        <Link href='/resume.pdf'>
+                        <Link href='/ResumeNew.pdf'>
                             <a
                                 target='_blank'
                                 rel='noopener noreferrer'

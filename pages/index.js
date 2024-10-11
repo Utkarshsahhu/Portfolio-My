@@ -6,7 +6,7 @@ export default function Home() {
         <div>
             <Head>
 <meta name="google-site-verification" content="VJs2G3ynvYQ1KG06ciOhdPdklC1gIUEkJ2KcplrnfWU" />
-        <meta name="description" content="Utkarsh sahu. I am web developer. VijayBrat, Vijay Brat, vijay brat"/>
+        <meta name="description" content="Utkarsh sahu. I am web developer. UtkarshSahu, Utkarsh Sahu, utkarsh sahu"/>
                 <title>Utkarsh Sahu</title>
             </Head>
             <HomePage/>
