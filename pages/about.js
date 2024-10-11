@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="h-screen lg:pl-20 lg:pr-32">
       <Head>
-        <title>About | Vijay Brat Pandey</title>
+        <title>About | Utkarsh Sahu</title>
       </Head>
       <div className="flex justify-between md:mx-20 md:pt-32 pt-28">
         <div className="flex flex-col md:ml-20 px-10 mt-10">
@@ -31,7 +31,7 @@ const About = () => {
                 }}
               >
                 <h1 className="text-3xl font-bold sm:text-4xl mb-8">
-                  Hello, I&#39;m <span className="text-blue-500">Vijay</span>
+                  Hello, I&#39;m <span className="text-blue-500">Utkarsh</span>
                 </h1>
               </motion.div>
               <motion.div
@@ -75,11 +75,11 @@ const About = () => {
               }}
             >
               <p className="text-left font-normal mb-5 flex-wrap">
-                I'm currently in my fourth year studying Electronics and
-                Communication Engineering (ECE) at Feroze Gandhi Institute of
-                Engineering and Technology. You can find my work on GitHub{" "}
+              I have completed my BTech in Computer Science from 
+              Feroze Gandhi Institute of Engineering and Technology.
+              You can find my work on GitHub.{" "}
                 <a
-                  href="https://github.com/vijaybrat"
+                  href="https://github.com/Utkarshsahhu"
                   className="underline text-blue-500"
                 >
                   here

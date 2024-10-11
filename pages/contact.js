@@ -66,19 +66,19 @@ const Contact = () => {
               LinkedIn:{" "}
               <a
                 className="text-blue-500 hover:underline"
-                href="https://www.linkedin.com/in/vijaybrat/"
+                href="https://www.linkedin.com/in/utkarshsahuu/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                /in/vijay/brat/
+                /in/utkarsh/sahu/
               </a>{" "}
               <br />
               Email:{" "}
               <a
                 className="text-blue-500 hover:underline"
-                href="mailto:vijaybratpandeyeng@gmail.com"
+                href="mailto:utkarshsahuenq@gmail.com"
               >
-                vijaybratpandeyeng@gmail
+                utkarshsahuenq@gmail.com
               </a>
             </p>
           </div>

@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <div className="h-screen mx-5 sm:mx-auto pt-32">
       <Head>
-        <title>Projects | Vijay Brat Pandey</title>
+        <title>Projects | Utkarsh Sahu</title>
       </Head>
       <h1 className="font-bold text-3xl text-center"></h1>
       <div className="max-w-5xl md:px-4 py-8 pb-32 mx-auto space-y-28">
